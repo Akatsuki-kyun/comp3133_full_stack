@@ -7,7 +7,7 @@ Mike Denton (mike.denton@georgebrown.ca)
 Alla Abramova (ping me on Slack for any questions)
 
 ### Outline
-[Full Stack 2 - Course Outline](https://drive.google.com/file/d/1Z3ZuaIFBdgr1gOwSEY6862tpPKigsrUp/view?usp=sharing)
+[Full Stack 2 - Course Outline](https://docs.google.com/document/d/1Y_0C2Y8vDZX2H89GH3jPWk_TYN5K-AY3JjbhgXXCCw8/edit?usp=sharing)
 
 ### Lecture Slides
 [1 Lecture](https://drive.google.com/file/d/1fNjZSnZ5Rj_M6JJROWoVQzw-0G10gQ_x/view?usp=sharing)
