@@ -9,7 +9,7 @@ Alla Abramova (ping me on Slack for any questions)
 ### Outline
 
 ### Lecture Slides
-[1 Lecture]
+[1 Lecture](https://drive.google.com/file/d/1fNjZSnZ5Rj_M6JJROWoVQzw-0G10gQ_x/view?usp=sharing)
 
 ### Labs
 
