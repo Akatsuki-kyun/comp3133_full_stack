@@ -12,6 +12,10 @@ Alla Abramova (ping me on Slack for any questions)
 ### Lecture Slides
 [1 Lecture](https://drive.google.com/file/d/1fNjZSnZ5Rj_M6JJROWoVQzw-0G10gQ_x/view?usp=sharing)
 
+[2 Lecture]
+
 ### Labs
 
 [Week 1 lab - Jan 8th & 11th, 2019](https://drive.google.com/file/d/1sfMYDI1C7qQjV9XsjuoSAuymxpxL-Abf/view?usp=sharing)
+
+[Week 2 lab - Jan 15th & 18th, 2019]
