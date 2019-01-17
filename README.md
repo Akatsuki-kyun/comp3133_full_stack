@@ -22,4 +22,4 @@ Alla Abramova (ping me on Slack for any questions)
 
 ### Lab Solutions
 
-[0 Lab Solutions](https://drive.google.com/file/d/1VDzU5_q9_mHa9qJB2PyJWw6bOt3SMelv/view?usp=sharing)
+[1 Lab Solutions](https://drive.google.com/file/d/1VDzU5_q9_mHa9qJB2PyJWw6bOt3SMelv/view?usp=sharing)
