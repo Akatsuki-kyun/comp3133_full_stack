@@ -36,3 +36,5 @@ Alla Abramova (ping me on Slack for any questions)
 ### Lab Solutions
 
 [1 Lab Solutions](https://drive.google.com/file/d/1fQzd7Nr45hbosL9j9Li9vNaioqZ8P1nw/view?usp=sharing)
+
+[2 Lab Solutions](https://drive.google.com/file/d/1VDzU5_q9_mHa9qJB2PyJWw6bOt3SMelv/view?usp=sharing)
