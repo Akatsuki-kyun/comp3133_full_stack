@@ -25,6 +25,8 @@ Alla Abramova (ping me on Slack for any questions)
 
 [2 Lecture](https://drive.google.com/file/d/1bpbwfF-lUJKeoMqytlnmuDoSKemutykt/view?usp=sharing)
 
+[3 Lecture](https://drive.google.com/file/d/1pJtjVpUC9PxGHa7hJ6qpMX8ZwFX8K3NU/view?usp=sharing)
+
 ### Labs
 
 [Week 1 lab - Jan 8th & 11th, 2019](https://drive.google.com/file/d/1sfMYDI1C7qQjV9XsjuoSAuymxpxL-Abf/view?usp=sharing)
