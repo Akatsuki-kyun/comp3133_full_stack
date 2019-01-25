@@ -27,8 +27,8 @@ Alla Abramova (ping me on Slack for any questions)
 
 [3 Lecture](https://drive.google.com/file/d/1pJtjVpUC9PxGHa7hJ6qpMX8ZwFX8K3NU/view?usp=sharing)
 
-### Project
-[Requirements]
+### Project 
+[Requirements - Part 1]
 
 [Socket.io](https://socket.io/)
 
