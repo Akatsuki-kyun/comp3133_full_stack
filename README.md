@@ -27,6 +27,14 @@ Alla Abramova (ping me on Slack for any questions)
 
 [3 Lecture](https://drive.google.com/file/d/1pJtjVpUC9PxGHa7hJ6qpMX8ZwFX8K3NU/view?usp=sharing)
 
+### Project
+[Requirements]
+
+[Socket.io](https://socket.io/)
+[Chat Tutorial](https://medium.com/@noufel.gouirhate/build-a-simple-chat-app-with-node-js-and-socket-io-ea716c093088)
+[Game Tutorial 1](https://phaser.io/news/2017/03/socketio-multiplayer-tutorial)
+[Game Tutorial 2](https://hackernoon.com/how-to-build-a-multiplayer-browser-game-4a793818c29b)
+[Phase.io - Game Framework](http://phaser.io/)
 ### Labs
 
 [Week 1 lab - Jan 8th & 11th, 2019](https://drive.google.com/file/d/1sfMYDI1C7qQjV9XsjuoSAuymxpxL-Abf/view?usp=sharing)
