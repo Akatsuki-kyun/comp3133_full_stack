@@ -33,7 +33,7 @@ Alla Abramova (ping me on Slack for any questions)
 
 [Week 2 lab - Jan 15th & 18th, 2019](https://drive.google.com/file/d/1TJxGDvrF3WZD9WFIKQf9E-znoPGycExz/view?usp=sharing) :: Cheatsheet [link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter#) | Video [link](https://www.youtube.com/watch?v=AfWYO8t7ed4)
 
-[Week 3 lab - Jan 22nd & 25th, 2019]
+[Week 3 lab - Jan 22nd & 25th, 2019](https://drive.google.com/file/d/1JdIrdoNDEsnvzXMODdcQ0uZai3Quoj7o/view?usp=sharing)
 
 ### Lab Solutions
 
