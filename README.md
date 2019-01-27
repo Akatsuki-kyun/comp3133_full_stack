@@ -23,7 +23,7 @@ Alla Abramova (ping me on Slack for any questions)
 ### Lecture Slides
 [1 Lecture](https://drive.google.com/file/d/1fNjZSnZ5Rj_M6JJROWoVQzw-0G10gQ_x/view?usp=sharing)
 
-[2 Lecture](https://drive.google.com/file/d/1bpbwfF-lUJKeoMqytlnmuDoSKemutykt/view?usp=sharing)
+[2 Lecture](https://drive.google.com/file/d/1HNCnsC-KzV_MQ2toxaAk2Lhi2t1_89jU/view?usp=sharing)
 
 [3 Lecture](https://drive.google.com/file/d/1pJtjVpUC9PxGHa7hJ6qpMX8ZwFX8K3NU/view?usp=sharing)
 
