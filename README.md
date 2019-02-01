@@ -50,7 +50,7 @@ Alla Abramova (ping me on Slack for any questions)
 
 [Week 3 lab - Jan 22nd & 25th, 2019](https://drive.google.com/file/d/1JdIrdoNDEsnvzXMODdcQ0uZai3Quoj7o/view?usp=sharing)
 
-[Week 4 lab - Jan 29th & Feb 1st, 2019](https://docs.google.com/document/d/1sZzmGKvUfTzPKzG2b-ZX7Yd5xLe2CUCSb_MOcRFqLtI/edit?usp=sharing)
+[Week 4 lab - Jan 29th & Feb 1st, 2019](https://docs.google.com/document/d/1sZzmGKvUfTzPKzG2b-ZX7Yd5xLe2CUCSb_MOcRFqLtI/edit?usp=sharing):: Client API [link](https://socket.io/docs/client-api/)
 
 ### Lab Solutions
 
