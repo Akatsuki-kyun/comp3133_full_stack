@@ -32,6 +32,7 @@ Alla Abramova (ping me on Slack for any questions)
 ### Project 
 [Requirements - Part 1 - Due March 7th](https://docs.google.com/document/d/18kcQY7bMoOGsYkC5Iq7XkQXBskD0YriT9NgTK4od6to/edit?usp=sharing)
 
+### Project References
 [Socket.io](https://socket.io/)
 
 [Chat Tutorial](https://medium.com/@noufel.gouirhate/build-a-simple-chat-app-with-node-js-and-socket-io-ea716c093088)
