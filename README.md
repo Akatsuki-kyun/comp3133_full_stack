@@ -29,6 +29,12 @@ Alla Abramova (ping me on Slack for any questions)
 
 [4 Lecture](https://drive.google.com/file/d/10CtLwqBKp6TU3NBmAszM9FzuOYiemFFv/view?usp=sharing)
 
+### Lecture Demo
+
+[1 Demo - ES6](https://drive.google.com/file/d/1fBbQ_uolMvWEcpwKzV84rNuqcLCgv2wb/view?usp=sharing)
+
+[2 Demo - Promises](https://drive.google.com/file/d/1kxL_pTi4aensu_5HTLGuUZtMuAwh-4MN/view?usp=sharing)
+
 ### Project 
 [Requirements - Part 1 - Due March 7th](https://docs.google.com/document/d/18kcQY7bMoOGsYkC5Iq7XkQXBskD0YriT9NgTK4od6to/edit?usp=sharing)
 
