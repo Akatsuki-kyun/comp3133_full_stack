@@ -57,3 +57,5 @@ Alla Abramova (ping me on Slack for any questions)
 [1 Lab Solutions](https://drive.google.com/file/d/1fQzd7Nr45hbosL9j9Li9vNaioqZ8P1nw/view?usp=sharing)
 
 [2 Lab Solutions](https://drive.google.com/file/d/1VDzU5_q9_mHa9qJB2PyJWw6bOt3SMelv/view?usp=sharing)
+
+[3 Lab Solutions](https://drive.google.com/file/d/1gocaT6_5PD6AwBSiOxt4pCIiSmQUhkgH/view?usp=sharing)
