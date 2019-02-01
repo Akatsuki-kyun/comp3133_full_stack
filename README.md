@@ -30,7 +30,7 @@ Alla Abramova (ping me on Slack for any questions)
 [4 Lecture](https://drive.google.com/file/d/10CtLwqBKp6TU3NBmAszM9FzuOYiemFFv/view?usp=sharing)
 
 ### Project 
-[Requirements - Part 1]
+[Requirements - Part 1 - Due March 7th](https://docs.google.com/document/d/18kcQY7bMoOGsYkC5Iq7XkQXBskD0YriT9NgTK4od6to/edit?usp=sharing)
 
 [Socket.io](https://socket.io/)
 
