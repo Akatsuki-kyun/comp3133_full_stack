@@ -29,6 +29,8 @@ Alla Abramova (ping me on Slack for any questions)
 
 [4 Lecture](https://drive.google.com/file/d/10CtLwqBKp6TU3NBmAszM9FzuOYiemFFv/view?usp=sharing)
 
+[5 Lecture](https://drive.google.com/file/d/12Z9YEbhnXa-JFLhev1XVCIPyidh6-Duh/view?usp=sharing)
+
 ### Lecture Demo
 
 [1 Demo - ES6](https://drive.google.com/file/d/1fBbQ_uolMvWEcpwKzV84rNuqcLCgv2wb/view?usp=sharing)
