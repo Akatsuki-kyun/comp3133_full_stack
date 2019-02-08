@@ -62,6 +62,7 @@ Alla Abramova (ping me on Slack for any questions)
 [Week 4 lab - Jan 29th & Feb 1st, 2019](https://docs.google.com/document/d/1sZzmGKvUfTzPKzG2b-ZX7Yd5xLe2CUCSb_MOcRFqLtI/edit?usp=sharing):: Client API [link](https://socket.io/docs/client-api/)
 
 Hey Guys! It's Alla. I am not feeling well today. Please do the lab on your own. And please record your attendance at the atKlass. Here is a code: G5NF
+
 [Week 5 lab - Feb 5th & Feb 8th, 2019](https://docs.google.com/document/d/1OjAMmPcwEQH9auwxzRtRnfD6xs0J2JIIS1j46PfncdA/edit?usp=sharing)
 
 ### Lab Solutions
