@@ -74,3 +74,5 @@ Hey Guys! It's Alla. I am not feeling well today. Please do the lab on your own.
 [3 Lab Solutions](https://drive.google.com/file/d/1gocaT6_5PD6AwBSiOxt4pCIiSmQUhkgH/view?usp=sharing)
 
 [4 Lab Solutions](https://drive.google.com/file/d/1delPsypqj6ac2wxMXOkFkDAyR7GyE76L/view?usp=sharing)
+
+[5 Lab Solutions](https://drive.google.com/file/d/1ApoAwNvh59ZDUcxFeJEcsEQMp7f4gFGj/view?usp=sharing)
