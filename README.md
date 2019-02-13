@@ -37,6 +37,12 @@ Alla Abramova (ping me on Slack for any questions)
 
 [2 Demo - Promises](https://drive.google.com/file/d/1kxL_pTi4aensu_5HTLGuUZtMuAwh-4MN/view?usp=sharing)
 
+[3 Demo - Socket.io](https://drive.google.com/file/d/1aXwpFRQOfqfQFLdz0KS0cOdGs-YSwoNz/view?usp=sharing)
+
+[4 Demo - Fs Module](https://drive.google.com/file/d/1RXMbxHMt9ZZ-Yek5wevdGN71_zA_-Ufe/view?usp=sharing)
+
+[5 Demo - Child Processes](https://drive.google.com/file/d/1zHkfo4ZwIs2V-QCypx2UBzqwuKUSmD-D/view?usp=sharing)
+
 ### Project 
 [Requirements - Part 1 - Due March 7th](https://docs.google.com/document/d/18kcQY7bMoOGsYkC5Iq7XkQXBskD0YriT9NgTK4od6to/edit?usp=sharing)
 
