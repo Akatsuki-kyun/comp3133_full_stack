@@ -71,6 +71,8 @@ Alla Abramova (ping me on Slack for any questions)
 
 [Week 5 lab - Feb 5th & Feb 8th, 2019](https://docs.google.com/document/d/1OjAMmPcwEQH9auwxzRtRnfD6xs0J2JIIS1j46PfncdA/edit?usp=sharing)
 
+I can be 5 mins late guys, but you can start working on test. Alla
+
 [Lab Test](https://docs.google.com/document/d/1yGpqdOGAHGAwj5vlwuEmphjSFDYfIU-EC9qqfr6pJzM/edit?usp=sharing)
 
 ### Lab Solutions
