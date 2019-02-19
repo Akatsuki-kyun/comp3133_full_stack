@@ -71,7 +71,7 @@ Alla Abramova (ping me on Slack for any questions)
 
 [Week 5 lab - Feb 5th & Feb 8th, 2019](https://docs.google.com/document/d/1OjAMmPcwEQH9auwxzRtRnfD6xs0J2JIIS1j46PfncdA/edit?usp=sharing)
 
-[Lab Test]
+[Lab Test](https://drive.google.com/file/d/1yYzaqU1iIKDRMs-baQ480K-isutZv5AB/view?usp=sharing)
 
 ### Lab Solutions
 
