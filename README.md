@@ -47,6 +47,7 @@ Alla Abramova (ping me on Slack for any questions)
 
 ### Project 
 [Requirements - Part 1 - Due March 8th](https://docs.google.com/document/d/18kcQY7bMoOGsYkC5Iq7XkQXBskD0YriT9NgTK4od6to/edit?usp=sharing)
+
 [Heroku Deployment Tutorial](https://drive.google.com/file/d/1x6P4KSk6fVaTLEN0WwyEoRZDKZkWGUgI/view?usp=sharing)
 
 ### Project References
