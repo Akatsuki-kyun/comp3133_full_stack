@@ -33,6 +33,8 @@ Alla Abramova (ping me on Slack for any questions)
 
 [6 Lecture](https://drive.google.com/file/d/1OVLuCqI1r0Rif-P_OG_3TDir3VtOEmzB/view?usp=sharing)
 
+[7 Lecture](https://drive.google.com/file/d/1dbxXN992ooDMYz1MGVHBXJrqS3f-80ec/view?usp=sharing)
+
 ### Lecture Demo
 
 [1 Demo - ES6](https://drive.google.com/file/d/1fBbQ_uolMvWEcpwKzV84rNuqcLCgv2wb/view?usp=sharing)
