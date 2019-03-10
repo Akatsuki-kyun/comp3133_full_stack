@@ -95,4 +95,4 @@ Alla Abramova (ping me on Slack for any questions)
 
 [Node Lab Test](https://docs.google.com/spreadsheets/d/1UA5tfzFi0rJE1YCrficCaNuhelJZ5huogU_DYeS8Tms/edit?usp=sharing)
 
-[Project](https://docs.google.com/spreadsheets/d/1hqA8X_04zhe9KwUupf-c6t4XhvwSBj2BsmgMk8PFibE/edit?usp=sharing)
+[Course Project](https://docs.google.com/spreadsheets/d/1hqA8X_04zhe9KwUupf-c6t4XhvwSBj2BsmgMk8PFibE/edit?usp=sharing)
