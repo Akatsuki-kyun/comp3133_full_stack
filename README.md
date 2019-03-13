@@ -93,6 +93,8 @@ Alla Abramova (ping me on Slack for any questions)
 
 [5 Lab Solutions](https://drive.google.com/file/d/1ApoAwNvh59ZDUcxFeJEcsEQMp7f4gFGj/view?usp=sharing)
 
+[6 Lab Solutions - Node Test](https://drive.google.com/file/d/1t3dGL2lOj4dtO2BmO-cJtIIQqDyBI-gF/view?usp=sharing)
+
 ### Submission Spreadsheet
 
 [Node Lab Test](https://docs.google.com/spreadsheets/d/1UA5tfzFi0rJE1YCrficCaNuhelJZ5huogU_DYeS8Tms/edit?usp=sharing)
