@@ -6,7 +6,7 @@ Mike Denton (mike.denton@georgebrown.ca)
 ### TA
 Alla Abramova (ping me on Slack for any questions)
 
-### React TA (Student)
+### TA React (Student)
 Mohamed.Abdi (Mohamed.Abdi3@georgebrown.ca)
 
 Huy Dam (Huy.Dam@georgebrown.ca)
