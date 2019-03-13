@@ -6,6 +6,11 @@ Mike Denton (mike.denton@georgebrown.ca)
 ### TA
 Alla Abramova (ping me on Slack for any questions)
 
+### React TA (Student)
+Mohamed.Abdi (Mohamed.Abdi3@georgebrown.ca)
+Huy Dam (Huy.Dam@georgebrown.ca)
+
+
 ### Outline
 [Full Stack 2 - Course Outline (**Updated 3-12-19)](https://docs.google.com/document/d/1Y_0C2Y8vDZX2H89GH3jPWk_TYN5K-AY3JjbhgXXCCw8/edit?usp=sharing)
 
