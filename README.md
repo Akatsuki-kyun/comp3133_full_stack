@@ -13,7 +13,7 @@ Huy Dam (Huy.Dam@georgebrown.ca)
 
 
 ### Outline
-[Full Stack 2 - Course Outline (**Updated 3-12-19)](https://docs.google.com/document/d/1Y_0C2Y8vDZX2H89GH3jPWk_TYN5K-AY3JjbhgXXCCw8/edit?usp=sharing)
+[Full Stack 2 - Course Outline (**Updated 3-17-19)](https://docs.google.com/document/d/1Y_0C2Y8vDZX2H89GH3jPWk_TYN5K-AY3JjbhgXXCCw8/edit?usp=sharing)
 
 ### How Tos
 
