@@ -91,6 +91,8 @@ Huy Dam (Huy.Dam@georgebrown.ca)
 
 [Week 8 lab - Mar 12th & Mar 15th, 2019](https://drive.google.com/file/d/1AkBMa1NRRbfcjHA6vtETRWLoAsgcW-uf/view?usp=sharing)
 
+[Week 9 lab - Mar 19th & Mar 22nd, 2019](https://drive.google.com/file/d/1IfSdKbjcwLeNoolS5vgnO2Gpfv7BQqut/view?usp=sharing)
+
 ### Lab Solutions
 
 [1 Lab Solutions](https://drive.google.com/file/d/1fQzd7Nr45hbosL9j9Li9vNaioqZ8P1nw/view?usp=sharing)
