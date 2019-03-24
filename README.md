@@ -43,6 +43,8 @@ Huy Dam (Huy.Dam@georgebrown.ca)
 
 [8 Lecture](https://drive.google.com/file/d/1uLaXuMI-eFho1WEOYChsE8tymlhaavWx/view?usp=sharing)
 
+[9 Lecture](https://drive.google.com/file/d/1vcCg54NEePSG_VCKQiFvPAeYnxBIM1ye/view?usp=sharing)
+
 ### Lecture Demo
 
 [1 Demo - ES6](https://drive.google.com/file/d/1fBbQ_uolMvWEcpwKzV84rNuqcLCgv2wb/view?usp=sharing)
