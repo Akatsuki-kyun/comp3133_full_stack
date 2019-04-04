@@ -25,6 +25,11 @@ Huy Dam (Huy.Dam@georgebrown.ca)
 
 ##### Github Tutorial For Beginners: https://youtu.be/0fKg7e37bQE
 
+### Hackathon
+[Hackathon Assignment](https://docs.google.com/document/d/1pD_pXOK-hhpn0A6KHvZjJ9I0toolDN28hYID-GqhfQk/edit?usp=sharing)
+
+### Hackathon Submission
+
 
 ### Lecture Slides
 [1 Lecture](https://drive.google.com/file/d/1fNjZSnZ5Rj_M6JJROWoVQzw-0G10gQ_x/view?usp=sharing)
