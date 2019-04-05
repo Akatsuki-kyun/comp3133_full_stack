@@ -69,7 +69,7 @@ Huy Dam (Huy.Dam@georgebrown.ca)
 ### Project 
 [Requirements - Part 1 - Due March 8th (Updated 03/01/19)](https://docs.google.com/document/d/18kcQY7bMoOGsYkC5Iq7XkQXBskD0YriT9NgTK4od6to/edit?usp=sharing)
 
-[Requirements - Part 2 - Due April 15th](https://drive.google.com/file/d/1J7tgtLU8OBrn3Tmxy55giOl81i5TULgT/view?usp=sharing)
+[Requirements - Part 2 - Due Friday, April 19th](https://drive.google.com/file/d/1J7tgtLU8OBrn3Tmxy55giOl81i5TULgT/view?usp=sharing)
 
 [Heroku Deployment Tutorial](https://drive.google.com/file/d/1x6P4KSk6fVaTLEN0WwyEoRZDKZkWGUgI/view?usp=sharing)
 
