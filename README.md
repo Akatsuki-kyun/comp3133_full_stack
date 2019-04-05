@@ -29,7 +29,7 @@ Huy Dam (Huy.Dam@georgebrown.ca)
 [Hackathon Assignment](https://docs.google.com/document/d/1pD_pXOK-hhpn0A6KHvZjJ9I0toolDN28hYID-GqhfQk/edit?usp=sharing)
 
 ### Hackathon Submission
-
+[Hackathon Spread Sheet](https://docs.google.com/spreadsheets/d/1ELnGeGR9UuSp1qs1Jyu5H__ANhmYisehUgSysZi7VSQ/edit?usp=sharing)
 
 ### Lecture Slides
 [1 Lecture](https://drive.google.com/file/d/1fNjZSnZ5Rj_M6JJROWoVQzw-0G10gQ_x/view?usp=sharing)
